@@ -1,2 +1,2 @@
-pip install tensorflow keras scikeras pandas scikit-learn numpy matplotlib nltk spacy tqdm ipywidgets joblib
+pip install tensorflow scikit-learn scikeras pandas matplotlib nltk spacy ipywidgets
 python -m spacy download en_core_web_sm
